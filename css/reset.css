@@ -10,13 +10,18 @@ fieldset, p, button,figcaption, figure{
 
 }
 
+/* 블릿기호 초기화 */
+ul,li,ol{
+  list-style: none;
+}
+
 /* 링크 초기화 */
 a{
   color: #222;
   text-decoration: none;
 }
 a:hover{
-  color: #2698cb;
+  color: #F43B86;
 }
 
 /* 폰트 초기화 */
